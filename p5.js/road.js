@@ -22,8 +22,6 @@ class Road {
       this.vy = 1;
       this.w = 4;
       this.x = roadX;
-      //x = width * noise(xoff);
-      //xoff += 0.1;
     }
   }
 
